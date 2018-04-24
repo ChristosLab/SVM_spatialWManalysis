@@ -1,0 +1,4 @@
+This folder contains the main functions needed to perform the Support Vector Machine classification, in the R environment. 
+Input for these functions is contained in the output folder and consistes of a series of firing rates of various categories
+of neurons (e.g. neurons with sustained activity during the delay period of the spatial working memory task). Firing rates
+are collected from presentation of stimuli at different locations. SVM decodes location of stimulus held in spatial working memory.
